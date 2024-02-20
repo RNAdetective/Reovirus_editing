@@ -1,0 +1,18 @@
+Supplemental files and legends:
+Supplemental_Table_1: Read depth for all samples.
+Supplemental_Table_2: Average TPM values for ADAR1,2 & 3 in all samples. 
+Supplemental_Table_3: DESeq2 differential ADAR transcript expression results for ADARp150 and ADARp110.
+Supplemental_Table_4: DESeq2 gene and transcript expression analysis results for all edited genes. 
+Supplemental_Table_5: Alu/SINE Editing Index (AEI).
+Supplemental_Table_6: All edited sites in Control and Infected samples with >20 reads aligned and editing rate > 0.01.
+Supplemental_Table_7: All edited sites in Control and Infected samples with >20 reads aligned and editing rate > 0.01 and annotated from REDIportal. 
+Supplemental_Table_8A: Edited sites common between control, ReoV and muReoV. 
+Supplemental_Table_8B: Shift/change in editing targets between control, ReoV and muReoV. 
+Supplemental_Table_9: Edited sites common between ReoV and muReoV only. 
+Supplemental_Table_10: Edited sites unique to muReoV-infected samples. 
+Supplemental_Table_11: Edited sites unique to ReoV-infected samples.
+Supplemental_Table_12: Pathway enrichment results from InnateDB for genes uniquely edited in infection.
+Supplemental_Table_13: Novel edited sites in all conditions that were not documented in REDIportal.
+Supplemental_File_14: Impact of Novel edited sites on transcriptome. These results are compiled from Ensembl Variant Effect Predictor (VEP) tool, for each treatment condition. 
+Supplemental_Figure_1: Distribution of ADAR edited sites among control and reovirus-infected, with reovirus T3D, or ReoV, and mutant P4L-12, or muReoV, infected samples. There was a total of 487, 784, and 1284 A-to-G or U(T)-to-C edited positions across three treatment categories.  The full list is available in Supplemental_Table_6.
+Supplemental_Figure_2: Distribution of a subset of ADAR edited sites that are also present in REDIportal genes among control and reovirus-infected, with ReoV or muReoV, samples. There was a total of 17, 71 and 153 A-to-G or U(T)-to-C edited positions across three treatment categories. The full list is available in Supplemental_Table_7.
